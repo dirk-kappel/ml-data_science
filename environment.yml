@@ -118,7 +118,7 @@ dependencies:
   - numpy-base=2.2.2=py312h0da6c21_0
   - openjpeg=2.5.2=he7f1fd0_0
   - openldap=2.6.4=h42fbc30_0
-  - openssl=3.0.15=h5eee18b_0
+  - openssl=3.0.16=h5eee18b_0
   - overrides=7.4.0=py312h06a4308_0
   - packaging=24.2=py312h06a4308_0
   - pandas=2.2.3=py312h6a678d5_0
@@ -165,6 +165,7 @@ dependencies:
   - rpds-py=0.22.3=py312h4aa5aa6_0
   - scikit-learn=1.6.1=py312h6a678d5_0
   - scipy=1.15.1=py312hc5e2394_0
+  - seaborn=0.13.2=py312h06a4308_1
   - send2trash=1.8.2=py312h06a4308_1
   - setuptools=72.1.0=py312h06a4308_0
   - sip=6.10.0=py312h6a678d5_0
